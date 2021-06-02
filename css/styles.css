@@ -83,8 +83,3 @@ body {
     opacity: 0.8;
 }
 
-@media screen and (max-width: 576px) {
-    .slider-position {
-        font-size: 0.85rem;
-    }
-}
